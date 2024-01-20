@@ -1,4 +1,4 @@
-package gcu.kea.terraform.dto;
+package gcu.kea.terraform.dto.openai;
 
 /**
  * SystemMessageDto는 시스템 메시지를 나타내는 클래스입니다.

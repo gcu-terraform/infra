@@ -1,4 +1,4 @@
-package gcu.kea.terraform.dto;
+package gcu.kea.terraform.dto.openai;
 
 import lombok.Data;
 
