@@ -27,7 +27,7 @@ public class InfrastructureToChatRequestMapper {
         requestDto.setMessages(messages);
 
         // 사용할 모델 설정
-        requestDto.setModel("gpt-4.0-turbo");
+        requestDto.setModel("gpt-3.5-turbo");
 
         return requestDto;
     }
