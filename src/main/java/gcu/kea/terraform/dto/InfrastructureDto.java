@@ -1,5 +1,6 @@
-package gcu.kea.terraform.dto.infra;
+package gcu.kea.terraform.dto;
 
+import gcu.kea.terraform.dto.infra.*;
 import lombok.Data;
 
 import java.util.List;
